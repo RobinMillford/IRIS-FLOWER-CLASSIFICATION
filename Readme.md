@@ -24,7 +24,7 @@ This project involved performing an exploratory data analysis (EDA) and applying
 **Project Outcome:**
 The project provided a comprehensive analysis of the Iris dataset, including data exploration, visualization, and the application of various machine learning models. The best-performing model was identified, and its classification performance was evaluated. The project aimed to demonstrate how EDA and machine learning can be applied to a real-world dataset for classification tasks.
 
-![Alt Text](https://github.com/RobinMillford/OIB-SIP/blob/main/Iris%20Flower%20Classification/51518iris-20img1_png.png)
+![Alt Text](https://github.com/RobinMillford/OIBSIP_TASK1/blob/main/51518iris-20img1_png.png)
 
 **Next Steps:**
 Future work may involve hyperparameter tuning of the best-performing model, additional feature engineering, or deploying the model for real-world predictions on new data.
